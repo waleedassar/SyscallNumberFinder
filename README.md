@@ -2,7 +2,11 @@
 
 
 
-Usage: SyscallNumberFinder.exe NtDelayExecution
+Usage: 
+
+
+
+       SyscallNumberFinder.exe NtDelayExecution
 
        SyscallNumberFinder.exe /Number 0x34
        
